@@ -1,6 +1,6 @@
-# SpringTestNgDemo
+# Test Automatin Framework based on Java Spring and TestNg
 
-Demo How to use Spring boot + Test NG
+Demo How to use Spring boot + Test NG in Automation testing:
 
  - to generate java client from swagger use command:
 
@@ -16,7 +16,7 @@ java -jar target\test-sbtg-1.0-SNAPSHOT.jar testng2.xml
  
 java -jar target\test-sbtg-1.0-SNAPSHOT.jar testngParallel.xml
 
-*note1: https://www.baeldung.com/spring-boot-rest-client-swagger-codegen
+*note1: some ideas from https://www.baeldung.com/spring-boot-rest-client-swagger-codegen
 
 *note2: set folder where client' classes are generated as a source folder
 
