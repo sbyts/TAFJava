@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default" parallel="tests" thread-count="3">
+  <test name="first">
+    <classes>
+      <class name="com.test.spring.ng.demo.tests.TestFirst"/>
+    </classes>
+  </test>
+  <test name="second">
+    <classes>
+      <class name="com.test.spring.ng.demo.tests.TestSecond"/>
+    </classes>
+  </test>
+  <test name="third">
+    <classes>
+      <class name="com.test.spring.ng.demo.tests.TestThird"/>
+    </classes>
+  </test>
+</suite>
