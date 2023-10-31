@@ -20,3 +20,4 @@ java -jar target\test-sbtg-1.0-SNAPSHOT.jar testngParallel.xml
 
 *note2: set folder where client' classes are generated as a source folder
 
+Image For Docker can be organized in way discribed at: https://docs.docker.com/language/java/build-images/
